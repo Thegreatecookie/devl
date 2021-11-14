@@ -16,3 +16,7 @@ int main()
 	system("pause");
 	return 0;
 }
+int hieu ( int a,b)
+{
+	return a-b;
+}
