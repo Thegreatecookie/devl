@@ -16,3 +16,7 @@ int main()
 	system("pause");
 	return 0;
 }
+int tong( int a,b)
+{
+	return a+b;
+}
